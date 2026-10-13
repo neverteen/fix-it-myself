@@ -6,7 +6,7 @@ and get a diagnosis, a tools list, and a safe step-by-step plan.
 > ⚠️ Work in progress — university project (semester 1).
 
 ## Design
-[Figma prototype]([(https://www.figma.com/proto/n4K76xh5dv2XX5AW53kKKp/Fix-It-Myself?node-id=11-47&t=W2eOICEiXRXrf8ek-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&fuid=1239796738423217406)])
+[Figma prototype](https://www.figma.com/proto/n4K76xh5dv2XX5AW53kKKp/Fix-It-Myself?node-id=11-47&t=W2eOICEiXRXrf8ek-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&fuid=1239796738423217406)
 
 ![Home](design/01-home.png)
 
